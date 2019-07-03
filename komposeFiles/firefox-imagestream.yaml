@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: ImageStream
+metadata:
+  creationTimestamp: null
+  labels:
+    io.kompose.service: firefox
+  name: firefox
+spec:
+  tags:
+  - annotations: null
+    from:
+      kind: DockerImage
+      name: edxops/firefox:ironwood.master
+    generation: null
+    importPolicy: {}
+    name: ironwood.master
+status:
+  dockerImageRepository: ""
