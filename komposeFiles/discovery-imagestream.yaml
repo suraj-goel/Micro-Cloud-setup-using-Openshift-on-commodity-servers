@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: ImageStream
+metadata:
+  creationTimestamp: null
+  labels:
+    io.kompose.service: discovery
+  name: discovery
+spec:
+  tags:
+  - annotations: null
+    from:
+      kind: DockerImage
+      name: edxops/discovery:ironwood.master
+    generation: null
+    importPolicy: {}
+    name: ironwood.master
+status:
+  dockerImageRepository: ""

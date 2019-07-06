@@ -1,0 +1,74 @@
+apiVersion: v1
+kind: DeploymentConfig
+metadata:
+  annotations:
+    kompose.cmd: kcompose --provider openshift convert
+    kompose.version: 1.17.0 (a74acad)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: lms
+  name: lms
+spec:
+  replicas: 1
+  selector:
+    io.kompose.service: lms
+  strategy:
+    resources: {}
+    type: Recreate
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        io.kompose.service: lms
+    spec:
+      containers:
+      - args:
+        - bash
+        - -c
+        - source /edx/app/edxapp/edxapp_env && while true; do python /edx/app/edxapp/edx-platform/manage.py
+          lms runserver 0.0.0.0:18000 --settings devstack_docker; sleep 2; done
+        env:
+        - name: BOK_CHOY_CMS_PORT
+          value: "18031"
+        - name: BOK_CHOY_HOSTNAME
+          value: edx-devstack-lms
+        - name: BOK_CHOY_LMS_PORT
+          value: "18003"
+        - name: EDXAPP_TEST_MONGO_HOST
+          value: edx-devstack-mongo
+        - name: NO_PYTHON_UNINSTALL
+          value: "1"
+        image: ' '
+        name: edx-devstack-lms
+        ports:
+        - containerPort: 18000
+        - containerPort: 19876
+        resources: {}
+        stdin: true
+        tty: true
+        volumeMounts:
+        - mountPath: /edx/var/edxapp/staticfiles/
+          name: edxapp-lms-assets
+        - mountPath: /edx/app/edxapp/edx-platform/node_modules
+          name: edxapp-node-modules
+      hostname: lms-devstack-edx
+      restartPolicy: Always
+      volumes:
+      - name: edxapp-lms-assets
+        persistentVolumeClaim:
+          claimName: edxapp-lms-assets
+      - name: edxapp-node-modules
+        persistentVolumeClaim:
+          claimName: edxapp-node-modules
+  test: false
+  triggers:
+  - type: ConfigChange
+  - imageChangeParams:
+      automatic: true
+      containerNames:
+      - edx-devstack-lms
+      from:
+        kind: ImageStreamTag
+        name: lms:ironwood.master
+    type: ImageChange
+status: {}
