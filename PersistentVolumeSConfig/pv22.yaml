@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv22
+spec:
+  capacity:
+    storage: 1Gi 
+  accessModes:
+  - ReadWriteMany 
+  nfs:
+    server: 10.129.132.111 
+    path: /var/nfs-data/pv22
+  persistentVolumeReclaimPolicy: Recycle
+    
