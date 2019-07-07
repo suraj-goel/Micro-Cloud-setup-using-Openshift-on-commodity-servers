@@ -1,0 +1,213 @@
+\begin{thebibliography}{10}
+
+\bibitem{intro}
+``{Openshift layout
+  "\url{http://protoinformatico.com/}".
+  Accessed on July 2019}.''
+
+\bibitem{Pods}
+``{Kubernetes Pods images
+  "\url{https://2.bp.blogspot.com/-a7tbQ-93uCA/W9tl4zgHlVI/AAAAAAAACGE/762QwS7_iFMOodmtN-BOtdeHy_I2TQjpgCLcBGAs/s1600/Screen%2BShot%2B2018-11-01%2Bat%2B1.45.06%2BPM.png}".
+  Accessed on July 2019}.''
+
+\bibitem{Deployments}
+``{Kubernetes Deployment image
+  "\url{https://storage.googleapis.com/cdn.thenewstack.io/media/2017/11/07751442-deployment.png}".
+  Accessed on July 2019}.''
+
+\bibitem{Service}
+``{Kubernetes Services image
+  "\url{https://matthewpalmer.net/kubernetes-app-developer/articles/nodeport.png}".
+  Accessed on July 2019}.''
+
+\bibitem{Ingress}
+``{Ingress Network image
+  "\url{https://user-images.githubusercontent.com/899878/45129885-91f38a80-b1c9-11e8-9833-0a04455c8304.png}".
+  Accessed on July 2019}.''
+
+\bibitem{Flannel}
+``{Flannel Network image
+  "\url{http://blog.shippable.com/hubfs/Routing_using_kube-proxy_and_overlay_network.png}".
+  Accessed on July 2019}.''
+
+\bibitem{Calico}
+``{Calico Network image
+  "\url{https://i2.wp.com/blog.docker.com/wp-content/uploads/f5755314-2f6c-46b3-a2e3-c3a6c4e17108.jpg?fit=668%2C598&ssl=1}".
+  Accessed on July 2019}.''
+
+\bibitem{Weavenet}
+``{Weavenet Network image
+  "\url{https://www.weave.works/docs/net/latest/weave-net-overview.png}".
+  Accessed on July 2019}.''
+
+\bibitem{KArc}
+``{Kubernetes architecture image
+  "\url{https://www.whizlabs.com/blog/wp-content/uploads/2019/05/Kubernetes_Architecture.png}".
+  Accessed on July 2019}.''
+
+\bibitem{Request}
+``{Request management in Kubernetes diagram
+  "\url{https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/assets/mgk8_0401.png}".
+  Accessed on July 2019}.''
+
+\bibitem{Kompose}
+``{Kompose architecture image
+  "\url{https://jaxenter.de/wp-content/uploads/2017/08/kompose_architecture.png}".
+  Accessed on July 2019}.''
+
+\bibitem{Persistent}
+``{Persistent volume architecture image
+  "\url{https://vocon-it.com/wp-content/uploads/2018/12/2018-12-02-23_05_06-Minikube-and-Kubeadm-Google-Pr%C3%A4sentationen-1024x478.png}".
+  Accessed on July 2019}.''
+
+\bibitem{Prereq}
+``{Prerequisites for installing Kubernetes
+  "\url{https://www.edureka.co/blog/install-kubernetes-on-ubuntu}". Accessed on
+  July 2019}.''
+
+\bibitem{Dashboard}
+``{Setting up and hosting the dashboard
+  "\url{https://www.vikki.in/kubernetes-on-ubuntu-18-04-with-dashbaoard/}".
+  Accessed on July 2019}.''
+
+\bibitem{KubernetesManagement}
+``{Kubernetes management
+  "\url{https://www.oreilly.com/library/view/managing-kubernetes/9781492033905/ch04.html}".
+  Accessed on July 2019}.''
+
+\bibitem{OpenedXarch}
+``{Official documentation of Open edX architecture
+  "\url{https://edx.readthedocs.io/projects/edx-developer-guide/en/latest/architecture.html}".
+  Accessed on July 2019}.''
+
+\bibitem{Cont}
+``{List of Docker containers on running Devstack
+  "\url{https://github.com/fresearchgroup/Configurable-and-Scalable-IITBombayX-MOOC-platform-on-Commodity-Servers/tree/master/Docker%20Containers}".
+  Accessed on July 2019}.''
+
+\bibitem{Provision}
+``{Provision log for command dev.provision
+  "\url{https://github.com/fresearchgroup/Configurable-and-Scalable-IITBombayX-MOOC-platform-on-Commodity-Servers/tree/master/Provision%20log}".
+  Accessed on July 2019}.''
+
+\bibitem{Docker}
+``{Official website of Docker "\url{https://docs.docker.com/}". Accessed on
+  July 2019}.''
+
+\bibitem{Dockerhub}
+``{Docker Hub website "\url{https://hub.docker.com/}". Accessed on July
+  2019}.''
+
+\bibitem{Ansidoc}
+``{Official documentation for Ansible
+  "\url{https://docs.ansible.com/ansible/latest/user_guide/}". Accessed on July
+  2019}.''
+
+\bibitem{Ansiblevaults}
+``{Ansible multiple vault passwords
+  "\url{https://docs.ansible.com/ansible/latest/user_guide/playbooks_vault.html#multiple-vault-passwords}".
+  Accessed on July 2019}.''
+
+\bibitem{Ansiplay}
+``{Ansible playbook created by us for Docker and Kubernetes installation
+  "\url{https://github.com/fresearchgroup/Configurable-and-Scalable-IITBombayX-MOOC-platform-on-Commodity-Servers/tree/master/ansible_files}".
+  Accessed on July 2019}.''
+
+\bibitem{Kubernetes}
+``{Official website of Kubernetes "\url{https://kubernetes.io/docs/home/}".
+  Accessed on July 2019}.''
+
+\bibitem{Kservice}
+``{Service discovery and load balancing
+  "\url{https://kubernetes.io/docs/concepts/services-networking/service/}".
+  Accessed on July 2019}.''
+
+\bibitem{Kstorch}
+``{Storage orchestration
+  "\url{https://kubernetes.io/docs/concepts/storage/persistent-volumes/}".
+  Accessed on July 2019}.''
+
+\bibitem{Kmanage}
+``{Automatic bin packing
+  "\url{https://kubernetes.io/docs/concepts/configuration/manage-compute-resources-container/}".
+  Accessed on July 2019}.''
+
+\bibitem{Kcontrol}
+``{Self-healing
+  "\url{https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/#how-a-replicationcontroller-works}".
+  Accessed on July 2019}.''
+
+\bibitem{Krollout}
+``{Automated rollouts and rollbacks
+  "\url{https://kubernetes.io/docs/concepts/workloads/controllers/deployment/}".
+  Accessed on July 2019}.''
+
+\bibitem{Kscmanage}
+``{Secret and configuration management
+  "\url{https://kubernetes.io/docs/concepts/configuration/secret/}". Accessed
+  on July 2019}.''
+
+\bibitem{Kbe}
+``{Batch execution
+  "\url{https://kubernetes.io/docs/concepts/workloads/controllers/jobs-run-to-completion/}".
+  Accessed on July 2019}.''
+
+\bibitem{Khs}
+``{Horizontal scaling
+  "\url{https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/}".
+  Accessed on July 2019}.''
+
+\bibitem{Knet}
+``{Networking in Kubernetes
+  "\url{https://kubernetes.io/docs/concepts/cluster-administration/networking/}".
+  Accessed on July 2019}.''
+
+\bibitem{Coredns}
+``{stackoverflow solution for CrashLoopBackOff error in coredns pods
+  "\url{https://stackoverflow.com/questions/53075796/coredns-pods-have-crashloopbackoff-or-error-state/53414041#53414041}".
+  Accessed on July 2019}.''
+
+\bibitem{Compose}
+``{Official documentation for Compose on Kubernetes
+  "\url{https://github.com/docker/compose-on-kubernetes.git}". Accessed on July
+  2019}.''
+
+\bibitem{Compinst}
+``{Documentation for installing Compose on Kubernetes
+  "\url{https://github.com/docker/compose-on-kubernetes/blob/master/docs/install-on-gke.md}".
+  Accessed on July 2019}.''
+
+\bibitem{Komposefiles}
+``{github link to kompose files
+  "\url{https://github.com/fresearchgroup/Configurable-and-Scalable-IITBombayX-MOOC-platform-on-Commodity-Servers/tree/master/kompose_files}".
+  Accessed on July 2019}.''
+
+\bibitem{Hostvolumes}
+``{github link to host volumes
+  "\url{https://github.com/fresearchgroup/Configurable-and-Scalable-IITBombayX-MOOC-platform-on-Commodity-Servers/tree/master/host_volumes}".
+  Accessed on July 2019}.''
+
+\bibitem{Kubeprov}
+``{Provisioning files for mysql and mongodb
+  "\url{https://github.com/fresearchgroup/Configurable-and-Scalable-IITBombayX-MOOC-platform-on-Commodity-Servers/tree/master/kube-provision}".
+  Accessed on July 2019}.''
+
+\bibitem{DNS}
+``{Pods are unable to access internet
+  "\url{https://blog.yaakov.online/kubernetes-getting-pods-to-talk-to-the-internet/}".
+  Accessed on July 2019}.''
+
+\bibitem{Configmap}
+``{Kubernetes ConfigMap Documentation
+  "\url{https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/}".
+  Accessed on July 2019}.''
+
+\bibitem{Tutor}
+``{Official documentation for Tutor "\url{https://docs.tutor.overhang.io/}".
+  Accessed on July 2019}.''
+
+\bibitem{Performance}
+B.~Erinle, {\em JMeter cookbook}.
+\newblock Packt Publishing., 2014, 1st Edition.
+
+\end{thebibliography}
