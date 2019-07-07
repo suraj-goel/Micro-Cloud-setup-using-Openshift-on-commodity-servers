@@ -1,0 +1,1834 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.7.1)  5 JUL 2019 01:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
+\c@inputfile=\count92
+Package: chapterbib 2010/09/18  v 1.17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen113
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count95
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count96
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen114
+\Fld@menulength=\count97
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count98
+\c@Item=\count99
+\c@Hfootnote=\count100
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count101
+\c@bookmark@seq@number=\count102
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip44
+\LTright=\skip45
+\LTpre=\skip46
+\LTpost=\skip47
+\LTchunksize=\count103
+\LTcapwidth=\dimen117
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count104
+\LT@rows=\count105
+\c@LT@tables=\count106
+\c@LT@chunks=\count107
+\LT@p@ftn=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count108
+\float@exts=\toks17
+\float@box=\box30
+\@float@everytoks=\toks18
+\@floatcapt=\box31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+\c@tracingmulticols=\count109
+\mult@box=\box32
+\multicol@leftmargin=\dimen118
+\c@unbalance=\count110
+\c@collectmore=\count111
+\doublecol@number=\count112
+\multicoltolerance=\count113
+\multicolpretolerance=\count114
+\full@width=\dimen119
+\page@free=\dimen120
+\premulticols=\dimen121
+\postmulticols=\dimen122
+\multicolsep=\skip48
+\multicolbaselineskip=\skip49
+\partial@page=\box33
+\last@line=\box34
+\maxbalancingoverflow=\dimen123
+\mult@rightbox=\box35
+\mult@grightbox=\box36
+\mult@gfirstbox=\box37
+\mult@firstbox=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\c@columnbadness=\count115
+\c@finalcolumnbadness=\count116
+\last@try=\dimen124
+\multicolovershoot=\dimen125
+\multicolundershoot=\dimen126
+\mult@nat@firstbox=\box56
+\colbreak@box=\box57
+\mc@col@check@num=\count117
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 143.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip50
+\f@ncyO@elh=\skip51
+\f@ncyO@erh=\skip52
+\f@ncyO@olh=\skip53
+\f@ncyO@orh=\skip54
+\f@ncyO@elf=\skip55
+\f@ncyO@erf=\skip56
+\f@ncyO@olf=\skip57
+\f@ncyO@orf=\skip58
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen127
+\scratchbox=\box58
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen128
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box59
+Package hyperref Info: Link coloring OFF on input line 39.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count124
+)
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
+
+(./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+ <iitb.png, id=132, 210.03468pt x 219.06844pt>
+File: iitb.png Graphic file (type png)
+
+<use iitb.png>
+Package pdftex.def Info: iitb.png used on input line 50.
+(pdftex.def)             Requested size: 210.03416pt x 219.06789pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./iitb.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.139 
+       [1]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [2]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ã in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ã in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ã in font cmr12!
+ [3] [4] (./main.lof
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+
+
+LaTeX Warning: Citation `container' in file `main' on page 5 undefined on input
+ line 7.
+
+
+LaTeX Warning: Citation `DockerEngine' in file `main' on page 5 undefined on in
+put line 8.
+
+
+LaTeX Warning: Citation `kubearch' in file `main' on page 5 undefined on input 
+line 9.
+
+
+LaTeX Warning: Citation `kubedep' in file `main' on page 5 undefined on input l
+ine 10.
+
+
+LaTeX Warning: Citation `Intreg' in file `main' on page 5 undefined on input li
+ne 12.
+
+
+LaTeX Warning: Citation `Appcomp' in file `main' on page 5 undefined on input l
+ine 14.
+
+)
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+ [5
+
+] (./main.toc)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [6
+
+]
+Chapter 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 244.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 244.
+
+<intro.png, id=252, 645.41125pt x 611.28375pt>
+File: intro.png Graphic file (type png)
+ <use intro.png>
+Package pdftex.def Info: intro.png used on input line 250.
+(pdftex.def)             Requested size: 362.37326pt x 210.14693pt.
+ [7
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 	\section
+               {Purpose} <./intro.png (PNG copy)>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [8]
+Chapter 2.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Overfull \hbox (0.79718pt too wide) in paragraph at lines 294--297
+\OT1/cmr/m/n/12 prin-ci-ples and ap-pli-ca-tions run-ning on Open-Shift have th
+eir own "con-tainer"allowing
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[9
+
+] [10]
+Chapter 3.
+
+Overfull \hbox (7.8788pt too wide) in paragraph at lines 338--340
+\OT1/cmr/m/n/12 This chap-ter deals with the var-i-ous as-pects of openedX such
+ as the key com-po-nents,Versions
+ []
+
+[11
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Overfull \hbox (24.16638pt too wide) in paragraph at lines 389--397
+\OT1/cmr/m/n/12 https://github.com/docker/compose/releases/download/1.18.0/dock
+er-compose-`uname
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--397
+
+ []
+
+[12]
+Overfull \hbox (27.78271pt too wide) in paragraph at lines 398--406
+\OT1/cmr/m/n/12 2.cd app/edx[]ansible/edx[]ansible/playbooks/roles/common[]vars
+/defaults/ 3.vi main.yml
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--406
+
+ []
+
+
+Overfull \hbox (8.39139pt too wide) in paragraph at lines 398--406
+\OT1/cmr/m/n/12 MON[]EDX[]PPA[]KEY from key-server.ubuntu.com to hkp://keyserve
+r.ubuntu.com:80
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--406
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 411.
+[13pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.459 	\chapter
+               {Setting Up Openshift on Commodity Servers}]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--464
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--464
+
+ []
+
+<docker.png, id=290, 220.825pt x 203.76125pt>
+File: docker.png Graphic file (type png)
+ <use docker.png>
+Package pdftex.def Info: docker.png used on input line 471.
+(pdftex.def)             Requested size: 154.57643pt x 142.6319pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--480
+
+ []
+
+<containerization.png, id=293, 602.25pt x 401.5pt>
+File: containerization.png Graphic file (type png)
+ <use containerization.png>
+Package pdftex.def Info: containerization.png used on input line 485.
+(pdftex.def)             Requested size: 180.67639pt x 120.45091pt.
+
+
+LaTeX Warning: Citation `container' in file `main' on page 14 undefined on inpu
+t line 486.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--496
+
+ []
+
+[14
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.496 
+       <./docker.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 498--502
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--502
+
+ []
+
+<docker-engine.png, id=300, 903.375pt x 747.54282pt>
+File: docker-engine.png Graphic file (type png)
+ <use docker-engine.png>
+Package pdftex.def Info: docker-engine.png used on input line 506.
+(pdftex.def)             Requested size: 361.3436pt x 299.01183pt.
+
+
+LaTeX Warning: Citation `DockerEngine' in file `main' on page 15 undefined on i
+nput line 507.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--514
+
+ []
+
+[15pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.514 			\textbf
+                {Dockerfiles}: Dockerfiles are merely text documents (.yaml ...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.514 			\textbf
+                {Dockerfiles}: Dockerfiles are merely text documents (.yaml ...
+ <./containerization.png> <./docker-engine.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+<kubernetes.jpeg, id=308, 722.7pt x 406.51875pt>
+File: kubernetes.jpeg Graphic file (type jpg)
+ <use kubernetes.jpeg>
+Package pdftex.def Info: kubernetes.jpeg used on input line 527.
+(pdftex.def)             Requested size: 361.3491pt x 203.25887pt.
+
+
+LaTeX Warning: Citation `kubearch' in file `main' on page 16 undefined on input
+ line 528.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--542
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--542
+
+ []
+
+<deployment.jpeg, id=309, 1606.0pt x 903.375pt>
+File: deployment.jpeg Graphic file (type jpg)
+ <use deployment.jpeg>
+Package pdftex.def Info: deployment.jpeg used on input line 549.
+(pdftex.def)             Requested size: 401.49902pt x 225.8432pt.
+
+
+LaTeX Warning: Citation `kubedep' in file `main' on page 16 undefined on input 
+line 550.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--558
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.558 			\textbf
+                {Service} : A service exposes a deployment as a network serv...
+ <./kubernetes.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 558--562
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--562
+
+ []
+
+<ingress.png, id=315, 240.9pt x 210.7875pt>
+File: ingress.png Graphic file (type png)
+ <use ingress.png>
+Package pdftex.def Info: ingress.png used on input line 566.
+(pdftex.def)             Requested size: 144.5411pt x 126.47346pt.
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.575 	\section
+               {Openshift Architecture}pdfTeX warning (ext4): destination with 
+the same identifier (name{figure.4.6}) has been already used, duplicate ignored
+
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.575 	\section
+               {Openshift Architecture} <./deployment.jpeg> <./ingress.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 576--581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--581
+
+ []
+
+<openshiftimageregistry.jpg, id=322, 640.3925pt x 360.34625pt>
+File: openshiftimageregistry.jpg Graphic file (type jpg)
+
+<use openshiftimageregistry.jpg>
+Package pdftex.def Info: openshiftimageregistry.jpg used on input line 592.
+(pdftex.def)             Requested size: 480.2932pt x 270.25902pt.
+
+Overfull \hbox (27.3253pt too wide) in paragraph at lines 592--593
+ [] 
+ []
+
+
+LaTeX Warning: Citation `Intreg' in file `main' on page 18 undefined on input l
+ine 593.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--597
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--597
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--600
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--600
+
+ []
+
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.4.7
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.602 	\textbf
+              {Openshift Cluster OverView} <./openshiftimageregistry.jpg>]
+<OpenShiftArchitecture.png, id=328, 986.68625pt x 603.25375pt>
+File: OpenShiftArchitecture.png Graphic file (type png)
+
+<use OpenShiftArchitecture.png>
+Package pdftex.def Info: OpenShiftArchitecture.png used on input line 606.
+(pdftex.def)             Requested size: 493.34192pt x 301.62613pt.
+
+Overfull \hbox (40.37402pt too wide) in paragraph at lines 606--607
+ [] 
+ []
+
+[19pdfTeX warning (ext4): destination with the same identifier (name{figure.4.8
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.612 	\section
+               {Openshift Application Components}: <./OpenShiftArchitecture.png
+>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--623
+
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--642
+
+ []
+
+<openshiftallinone.png, id=334, 983.675pt x 707.64375pt>
+File: openshiftallinone.png Graphic file (type png)
+
+<use openshiftallinone.png>
+Package pdftex.def Info: openshiftallinone.png used on input line 648.
+(pdftex.def)             Requested size: 491.8363pt x 353.82101pt.
+
+Overfull \hbox (38.86841pt too wide) in paragraph at lines 648--649
+ [] 
+ []
+
+
+LaTeX Warning: Citation `Appcomp' in file `main' on page 20 undefined on input 
+line 649.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--655
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[20]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 666.
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--682
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--682
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--689
+
+ []
+
+[21pdfTeX warning (ext4): destination with the same identifier (name{figure.4.9
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.690 	h
+        ostnamectl set-hostname master.cse.iitb.ac.in ( For master node)pdfTeX 
+warning (ext4): destination with the same identifier (name{table.4.1}) has been
+ already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.690 	h
+        ostnamectl set-hostname master.cse.iitb.ac.in ( For master node) <./ope
+nshiftallinone.png>]
+<openshiftwebconsole.png, id=347, 1918.16624pt x 954.56625pt>
+File: openshiftwebconsole.png Graphic file (type png)
+
+<use openshiftwebconsole.png>
+Package pdftex.def Info: openshiftwebconsole.png used on input line 739.
+(pdftex.def)             Requested size: 512.14586pt x 455.24437pt.
+
+Overfull \hbox (59.17796pt too wide) in paragraph at lines 739--740
+ [] 
+ []
+
+<openshiftDashboard.png, id=348, 1915.155pt x 935.495pt>
+File: openshiftDashboard.png Graphic file (type png)
+
+<use openshiftDashboard.png>
+Package pdftex.def Info: openshiftDashboard.png used on input line 749.
+(pdftex.def)             Requested size: 512.13087pt x 512.16855pt.
+
+Overfull \hbox (59.16298pt too wide) in paragraph at lines 749--750
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--754
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+0}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.755 	\chapter
+               {Devstack Installation on Openshift} <./openshiftwebconsole.png>
+] [24pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+.11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.755 	\chapter
+               {Devstack Installation on Openshift} <./openshiftDashboard.png>]
+Chapter 5.
+Missing character: There is no ‚ in font cmbx12!
+Missing character: There is no Ä in font cmbx12!
+Missing character: There is no ô in font cmbx12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 787--790
+
+ []
+
+<fstab.png, id=362, 1364.09625pt x 144.54pt>
+File: fstab.png Graphic file (type png)
+ <use fstab.png>
+Package pdftex.def Info: fstab.png used on input line 797.
+(pdftex.def)             Requested size: 463.78659pt x 49.14293pt.
+
+Overfull \hbox (10.8187pt too wide) in paragraph at lines 797--798
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--812
+
+ []
+
+[25
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.812 		\begin{itemize}
+                        <./fstab.png>]
+<pvolume.png, id=370, 672.5125pt x 188.705pt>
+File: pvolume.png Graphic file (type png)
+ <use pvolume.png>
+Package pdftex.def Info: pvolume.png used on input line 822.
+(pdftex.def)             Requested size: 336.25542pt x 94.35226pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 817--829
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 817--829
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 817--829
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--835
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 842--843
+
+ []
+
+<pv_image.png, id=371, 1927.2pt x 1084.05pt>
+File: pv_image.png Graphic file (type png)
+ <use pv_image.png>
+Package pdftex.def Info: pv_image.png used on input line 873.
+(pdftex.def)             Requested size: 455.2446pt x 455.24828pt.
+
+Overfull \hbox (2.2767pt too wide) in paragraph at lines 873--874
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--878
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.884 	\section
+               {Storage binding to persistent volume} <./pvolume.png>]
+<storagelist.png, id=379, 1839.87375pt x 376.40625pt>
+File: storagelist.png Graphic file (type png)
+ <use storagelist.png>
+Package pdftex.def Info: storagelist.png used on input line 891.
+(pdftex.def)             Requested size: 1011.9337pt x 207.02406pt.
+
+Overfull \hbox (558.9658pt too wide) in paragraph at lines 891--892
+ [] 
+ []
+
+<storagexample.png, id=380, 417.56pt x 309.155pt>
+File: storagexample.png Graphic file (type png)
+ <use storagexample.png>
+Package pdftex.def Info: storagexample.png used on input line 905.
+(pdftex.def)             Requested size: 417.55896pt x 309.15424pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 885--912
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 885--912
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 885--912
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27pdfTeX warning (ext4): destination with the same identifier (name{figure.5.3
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.912 	\section
+               {Imagestream} <./pv_image.png>] [28pdfTeX warning (ext4): destin
+ation with the same identifier (name{figure.5.4}) has been already used, duplic
+ate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.915 		\item  F
+                irst apply image on openshift by followingpdfTeX warning (ext4)
+: destination with the same identifier (name{figure.5.5}) has been already used
+, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.915 		\item  F
+                irst apply image on openshift by following <./storagelist.png> 
+<./storagexample.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 915--922
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--928
+
+ []
+
+<imagelist.png, id=389, 801.99625pt x 355.3275pt>
+File: imagelist.png Graphic file (type png)
+ <use imagelist.png>
+Package pdftex.def Info: imagelist.png used on input line 937.
+(pdftex.def)             Requested size: 400.99713pt x 177.6633pt.
+
+<imagexample.png, id=390, 1845.89626pt x 459.7175pt>
+File: imagexample.png Graphic file (type png)
+ <use imagexample.png>
+Package pdftex.def Info: imagexample.png used on input line 947.
+(pdftex.def)             Requested size: 455.22006pt x 227.6275pt.
+
+Overfull \hbox (2.25217pt too wide) in paragraph at lines 947--948
+ [] 
+ []
+
+
+Overfull \hbox (38.20096pt too wide) in paragraph at lines 928--952
+\OT1/cmr/m/n/12 sudo docker tag 3ed1080b793f docker-registry-default.apps.cse.i
+itb.ac.in/openedx/mysql:5.6
+ []
+
+
+Overfull \hbox (36.69958pt too wide) in paragraph at lines 928--952
+\OT1/cmr/m/n/12 sudo docker sudo docker push docker-registry-default.apps.cse.i
+itb.ac.in/openedx/mysql:5.6
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--952
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--952
+
+ []
+
+[29pdfTeX warning (ext4): destination with the same identifier (name{figure.5.6
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.952 
+       <./imagelist.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 955--956
+
+ []
+
+<servicelist.png, id=395, 680.5425pt x 292.09125pt>
+File: servicelist.png Graphic file (type png)
+ <use servicelist.png>
+Package pdftex.def Info: servicelist.png used on input line 966.
+(pdftex.def)             Requested size: 340.27042pt x 146.04526pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 959--971
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 972--973
+
+ []
+
+<servicexample.png, id=396, 1839.87375pt x 624.3325pt>
+File: servicexample.png Graphic file (type png)
+ <use servicexample.png>
+Package pdftex.def Info: servicexample.png used on input line 976.
+(pdftex.def)             Requested size: 455.22278pt x 284.529pt.
+
+Overfull \hbox (2.25488pt too wide) in paragraph at lines 976--977
+ [] 
+ []
+
+[30pdfTeX warning (ext4): destination with the same identifier (name{figure.5.7
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.980 	\end{figure}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.5.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.980 	\end{figure}
+                    <./imagexample.png> <./servicelist.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 982--983
+
+ []
+
+<pod.png, id=402, 1200.485pt x 361.35pt>
+File: pod.png Graphic file (type png)
+ <use pod.png>
+Package pdftex.def Info: pod.png used on input line 992.
+(pdftex.def)             Requested size: 455.23651pt x 170.71672pt.
+
+Overfull \hbox (2.26862pt too wide) in paragraph at lines 992--993
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<podxample.png, id=403, 728.7225pt x 219.82124pt>
+File: podxample.png Graphic file (type png)
+ <use podxample.png>
+Package pdftex.def Info: podxample.png used on input line 1001.
+(pdftex.def)             Requested size: 364.36035pt x 109.91034pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
+
+ []
+
+[31pdfTeX warning (ext4): destination with the same identifier (name{figure.5.9
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1010 	\chapter
+                {PROBLEMS AND ERRORS FACED} <./servicexample.png>] [32pdfTeX wa
+rning (ext4): destination with the same identifier (name{figure.5.10}) has been
+ already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1010 	\chapter
+                {PROBLEMS AND ERRORS FACED}pdfTeX warning (ext4): destination w
+ith the same identifier (name{figure.5.11}) has been already used, duplicate ig
+nored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1010 	\chapter
+                {PROBLEMS AND ERRORS FACED} <./pod.png (PNG copy)> <./podxample
+.png>]
+Chapter 6.
+
+Overfull \hbox (24.16638pt too wide) in paragraph at lines 1014--1022
+\OT1/cmr/m/n/12 https://github.com/docker/compose/releases/download/1.18.0/dock
+er-compose-`uname
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1014--1022
+
+ []
+
+
+Overfull \hbox (8.39139pt too wide) in paragraph at lines 1023--1031
+\OT1/cmr/m/n/12 MON[]EDX[]PPA[]KEY from key-server.ubuntu.com to hkp://keyserve
+r.ubuntu.com:80
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1031
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1031
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1037
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1040
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1040
+
+ []
+
+[33
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1049--1056
+
+ []
+
+[34]
+Chapter 7.
+[35
+
+]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1091.
+
+ [36]
+Overfull \hbox (3.48363pt too wide) in paragraph at lines 1104--1108
+[] \OT1/cmr/bx/n/12 https://github.com/fresearchgroup/Micro-Cloud-setup-using-O
+penshift-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1108
+
+ []
+
+
+Overfull \hbox (0.48363pt too wide) in paragraph at lines 1119--1123
+[]\OT1/cmr/bx/n/12 https://github.com/fresearchgroup/Micro-Cloud-setup-using-Op
+enshift-
+ []
+
+
+Overfull \hbox (145.56883pt too wide) in paragraph at lines 1128--1146
+\OT1/cmr/m/n/12 Fig. 3:https://www.mindfireit.com/cyber-security/introduction-t
+o-container-services/attachment/introduction-
+ []
+
+
+Overfull \hbox (62.74098pt too wide) in paragraph at lines 1128--1146
+\OT1/cmr/m/n/12 to-container-services-docker-kubernetes-openshift-configuration
+-code-runtime-engine/"Accessed
+ []
+
+
+Overfull \hbox (17.1035pt too wide) in paragraph at lines 1128--1146
+\OT1/cmr/m/n/12 Fig. 4:https://blog.docker.com/2018/09/join-the-beta-for-docker
+-engine-18-09/docker-
+ []
+
+
+Overfull \hbox (18.43533pt too wide) in paragraph at lines 1128--1146
+\OT1/cmr/m/n/12 website-2018-diagrams-071918-v5[]a-docker-engine-page-first-pan
+el-2/"Accessed on July
+ []
+
+
+Overfull \hbox (1.95505pt too wide) in paragraph at lines 1128--1146
+\OT1/cmr/m/n/12 Fig. 10:https://blog.openshift.com/openshift-v3-deep-dive-docke
+r-kubernetes/ "Ac-
+ []
+
+(./main.bbl [37]
+Underfull \hbox (badness 1990) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/12 ``Openshift lay-out "[]$\OT1/cmtt/m/n/12 http : / / protoinfo
+rmatico . com/$[]\OT1/cmr/m/n/12 ". Ac-cessed on July
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+[]\OT1/cmr/m/n/12 ``Kubernetes Pods im-ages "[]$\OT1/cmtt/m/n/12 https : / / 2 
+. bp . blogspot . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+\OT1/cmtt/m/n/12 -[]a7tbQ-[]93uCA / W9tl4zgHlVI / AAAAAAAACGE / 762QwS7 _ iFMOo
+dmtN-[]BOtdeHy _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+\OT1/cmtt/m/n/12 I2TQjpgCLcBGAs / s1600 / Screen % 2BShot % 2B2018-[]11-[]01 % 
+2Bat % 2B1 . 45 . 06 %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+[]\OT1/cmr/m/n/12 ``Kubernetes Ser-vices im-age "[]$\OT1/cmtt/m/n/12 https : / 
+/ matthewpalmer . net /
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 19--22
+\OT1/cmtt/m/n/12 kubernetes-[]app-[]developer / articles / nodeport . png$[]\OT
+1/cmr/m/n/12 ". Ac-cessed on July
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
+[]\OT1/cmr/m/n/12 ``Ingress Net-work im-age "[]$\OT1/cmtt/m/n/12 https : / / us
+er-[]images . githubusercontent .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
+\OT1/cmtt/m/n/12 com / 899878 / 45129885-[]91f38a80-[]b1c9-[]11e8-[]9833-[]0a04
+455c8304 . png$[]\OT1/cmr/m/n/12 ".
+ []
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 29--32
+[]\OT1/cmr/m/n/12 ``Flannel Net-work im-age "[]$\OT1/cmtt/m/n/12 http : / / blo
+g . shippable . com / hubfs / Routing _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+[]\OT1/cmr/m/n/12 ``Calico Net-work im-age "[]$\OT1/cmtt/m/n/12 https : / / i2 
+. wp . com / blog . docker . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+\OT1/cmtt/m/n/12 wp-[]content / uploads / f5755314-[]2f6c-[]46b3-[]a2e3-[]c3a6c
+4e17108 . jpg ?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+[]\OT1/cmr/m/n/12 ``Kubernetes ar-chi-tec-ture im-age "[]$\OT1/cmtt/m/n/12 http
+s : / / www . whizlabs . com / blog /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+\OT1/cmtt/m/n/12 wp-[]content / uploads / 2019 / 05 / Kubernetes _ Architecture
+ . png$[]\OT1/cmr/m/n/12 ". Ac-cessed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
+\OT1/cmtt/m/n/12 library / view / managing-[]kubernetes / 9781492033905 / asset
+s / mgk8 _ 0401 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+[]\OT1/cmr/m/n/12 ``Persistent vol-ume ar-chi-tec-ture im-age "[]$\OT1/cmtt/m/n
+/12 https : / / vocon-[]it .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+\OT1/cmtt/m/n/12 com / wp-[]content / uploads / 2018 / 12 / 2018-[]12-[]02-[]23
+ _ 05 _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+\OT1/cmtt/m/n/12 06-[]Minikube-[]and-[]Kubeadm-[]Google-[]Pr % C3 % A4sentation
+en-[]1024x478 . png$[]\OT1/cmr/m/n/12 ".
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+[]\OT1/cmr/m/n/12 ``Setting up and host-ing the dash-board "[]$\OT1/cmtt/m/n/12
+ https : / / www . vikki . in /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+\OT1/cmtt/m/n/12 kubernetes-[]on-[]ubuntu-[]18-[]04-[]with-[]dashbaoard/$[]\OT1
+/cmr/m/n/12 ". Ac-cessed on July
+ []
+
+[38
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
+[]\OT1/cmr/m/n/12 ``Kubernetes man-age-ment "[]$\OT1/cmtt/m/n/12 https : / / ww
+w . oreilly . com / library / view /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
+[]\OT1/cmr/m/n/12 ``Official doc-u-men-ta-tion of Open edX ar-chi-tec-ture "[]$
+\OT1/cmtt/m/n/12 https : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
+\OT1/cmtt/m/n/12 edx . readthedocs . io / projects / edx-[]developer-[]guide / 
+en / latest /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+[]\OT1/cmr/m/n/12 ``List of Docker con-tain-ers on run-ning De-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+\OT1/cmr/m/n/12 vs-tack "[]$\OT1/cmtt/m/n/12 https : / / github . com / fresear
+chgroup /
+ []
+
+
+Overfull \hbox (46.75998pt too wide) in paragraph at lines 84--87
+\OT1/cmtt/m/n/12 Configurable-[]and-[]Scalable-[]IITBombayX-[]MOOC-[]platform-[
+]on-[]Commodity-[]Servers /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
+[]\OT1/cmr/m/n/12 ``Provision log for com-mand dev.provision "[]$\OT1/cmtt/m/n/
+12 https : / / github . com /
+ []
+
+
+Overfull \hbox (139.38503pt too wide) in paragraph at lines 89--92
+\OT1/cmtt/m/n/12 fresearchgroup / Configurable-[]and-[]Scalable-[]IITBombayX-[]
+MOOC-[]platform-[]on-[]Commodity-[]Servers /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
+\OT1/cmtt/m/n/12 latest / user _ guide / playbooks _ vault . html # multiple-[]
+vault-[]passwords$[]\OT1/cmr/m/n/12 ".
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--115
+[]\OT1/cmr/m/n/12 ``Ansible play-book cre-ated by us for Docker and Ku-ber-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--115
+\OT1/cmr/m/n/12 netes in-stal-la-tion "[]$\OT1/cmtt/m/n/12 https : / / github .
+ com / fresearchgroup /
+ []
+
+
+Overfull \hbox (46.75998pt too wide) in paragraph at lines 112--115
+\OT1/cmtt/m/n/12 Configurable-[]and-[]Scalable-[]IITBombayX-[]MOOC-[]platform-[
+]on-[]Commodity-[]Servers /
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 121--124
+[]\OT1/cmr/m/n/12 ``Service dis-cov-ery and load bal-anc-ing "[]$\OT1/cmtt/m/n/
+12 https : / / kubernetes . io / docs /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
+[]\OT1/cmr/m/n/12 ``Automatic bin pack-ing "[]$\OT1/cmtt/m/n/12 https : / / kub
+ernetes . io / docs / concepts /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
+\OT1/cmtt/m/n/12 configuration / manage-[]compute-[]resources-[]container/$[]\O
+T1/cmr/m/n/12 ". Ac-cessed on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--139
+[]\OT1/cmr/m/n/12 ``Self-healing "[]$\OT1/cmtt/m/n/12 https : / / kubernetes . 
+io / docs / concepts /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--139
+\OT1/cmtt/m/n/12 workloads / controllers / replicationcontroller /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--144
+[]\OT1/cmr/m/n/12 ``Automated roll-outs and roll-backs "[]$\OT1/cmtt/m/n/12 htt
+ps : / / kubernetes . io / docs /
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 146--149
+[]\OT1/cmr/m/n/12 ``Secret and con-fig-u-ra-tion man-age-ment "[]$\OT1/cmtt/m/n
+/12 https : / / kubernetes . io / docs /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
+[]\OT1/cmr/m/n/12 ``Batch ex-e-cu-tion "[]$\OT1/cmtt/m/n/12 https : / / kuberne
+tes . io / docs / concepts / workloads /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
+[]\OT1/cmr/m/n/12 ``Horizontal scal-ing "[]$\OT1/cmtt/m/n/12 https : / / kubern
+etes . io / docs / tasks /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--164
+[]\OT1/cmr/m/n/12 ``Networking in Ku-ber-netes "[]$\OT1/cmtt/m/n/12 https : / /
+ kubernetes . io / docs / concepts /
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+[]\OT1/cmr/m/n/12 ``stackoverflow so-lu-tion for CrashLoop-Back-Off er-ror in c
+oredns
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+\OT1/cmr/m/n/12 pods "[]$\OT1/cmtt/m/n/12 https : / / stackoverflow . com / que
+stions / 53075796 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+\OT1/cmtt/m/n/12 coredns-[]pods-[]have-[]crashloopbackoff-[]or-[]error-[]state 
+/ 53414041 #
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
+[]\OT1/cmr/m/n/12 ``Documentation for in-stalling Com-pose on Ku-ber-netes "[]$
+\OT1/cmtt/m/n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
+\OT1/cmtt/m/n/12 / / github . com / docker / compose-[]on-[]kubernetes / blob /
+ master / docs /
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 181--184
+[]\OT1/cmr/m/n/12 ``github link to kom-pose files "[]$\OT1/cmtt/m/n/12 https : 
+/ / github . com / fresearchgroup /
+ []
+
+
+Overfull \hbox (46.75998pt too wide) in paragraph at lines 181--184
+\OT1/cmtt/m/n/12 Configurable-[]and-[]Scalable-[]IITBombayX-[]MOOC-[]platform-[
+]on-[]Commodity-[]Servers /
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 186--189
+[]\OT1/cmr/m/n/12 ``github link to host vol-umes "[]$\OT1/cmtt/m/n/12 https : /
+ / github . com / fresearchgroup /
+ []
+
+
+Overfull \hbox (46.75998pt too wide) in paragraph at lines 186--189
+\OT1/cmtt/m/n/12 Configurable-[]and-[]Scalable-[]IITBombayX-[]MOOC-[]platform-[
+]on-[]Commodity-[]Servers /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
+[]\OT1/cmr/m/n/12 ``Provisioning files for mysql and mon-godb "[]$\OT1/cmtt/m/n
+/12 https : / / github . com /
+ []
+
+
+Overfull \hbox (139.38503pt too wide) in paragraph at lines 191--194
+\OT1/cmtt/m/n/12 fresearchgroup / Configurable-[]and-[]Scalable-[]IITBombayX-[]
+MOOC-[]platform-[]on-[]Commodity-[]Servers /
+ []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 196--199
+[]\OT1/cmr/m/n/12 ``Pods are un-able to ac-cess in-ter-net "[]$\OT1/cmtt/m/n/12
+ https : / / blog . yaakov . online /
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 201--204
+[]\OT1/cmr/m/n/12 ``Kubernetes Con-figMap Doc-u-men-ta-tion "[]$\OT1/cmtt/m/n/1
+2 https : / / kubernetes . io / docs /
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 201--204
+\OT1/cmtt/m/n/12 tasks / configure-[]pod-[]container / configure-[]pod-[]config
+map/$[]\OT1/cmr/m/n/12 ". Ac-cessed
+ []
+
+) [40]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1158.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1158.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1158.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1158.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 26D8BF1F80CCD9601CF623A6DA1037D2;2039.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1158.
+ ) 
+Here is how much of TeX's memory you used:
+ 6399 strings out of 493029
+ 93698 string characters out of 6136235
+ 195484 words of memory out of 5000000
+ 9693 multiletter control sequences out of 15000+600000
+ 11718 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 29i,12n,43p,501b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (41 pages, 1812712 bytes).
+PDF statistics:
+ 661 PDF objects out of 1000 (max. 8388607)
+ 573 compressed objects within 6 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 377 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,30 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces OpenShift Layout \cite {intro}}}{7}{figure.1.1}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Docker \cite {Docker}}}{14}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Container \cite {container}}}{15}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Docker Engine \cite {DockerEngine}}}{15}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Kubernetes Architecture \cite {kubearch}}}{16}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Kubernetes Deployment \cite {kubedep}}}{17}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Ingress Network \cite {Ingress}}}{17}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Integrated Container Registry\cite {Intreg}}}{18}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Openshift cluster (Diagram Made using draw.io)}}{19}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Openshift application components working together\cite {Appcomp}}}{21}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Openshift web console}}{23}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Openshift Dashboard}}{24}{figure.4.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces /etc/fstab file}}{25}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces /etc/exports}}{26}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces List of Persistent Volumes}}{27}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces List Of PVC}}{28}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces mysql-data PVC}}{28}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Image Streams}}{29}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces mysql Image Stream}}{30}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Services}}{30}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces devpi service}}{31}{figure.5.9}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces List of deployment}}{32}{figure.5.10}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces mysql deployment}}{32}{figure.5.11}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
